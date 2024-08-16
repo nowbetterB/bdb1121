@@ -1,0 +1,16 @@
+package ex01;
+
+public class Practice2 {
+
+	public static void main(String[] args) {
+		String name = "배나경";
+		String age = "30";
+		String job = "여행가이드";
+		
+		System.out.println("저는 " + name + "입니다.");
+		System.out.println(job + "로 일을 합니다");
+		System.out.println(age + "살입니다.");
+
+	}
+
+}

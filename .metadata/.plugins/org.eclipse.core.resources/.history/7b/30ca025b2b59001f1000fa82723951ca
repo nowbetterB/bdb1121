@@ -1,0 +1,19 @@
+package ex01;
+
+public class Pracitce {
+
+	public static void main(String[] args) {
+		
+		char name = '배나경';
+		
+		char age = '서른';
+
+		System.out.println(name);
+		System.out.println(age);
+		
+		float 1993.11.21
+		
+		System.out.println(birtg);
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Pakage&apos; to &apos;Package&apos;&#x0D;&#x0A;- Original project: &apos;FristJava&apos;&#x0D;&#x0A;- Original element: &apos;FristJava/src/Pakage&apos;&#x0D;&#x0A;- Renamed element: &apos;FristJava/src/Package&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Pakage&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Pakage" name="Package" qualified="false" references="true" stamp="1723508888363" textual="false" version="1.0"/>
+</session>

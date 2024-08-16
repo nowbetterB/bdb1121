@@ -1,0 +1,19 @@
+package ex02;
+
+/*
+ * 수동 형변환 또는 강제 형변환
+ * 큰 자료형을 작은 자료형에 대입한다.
+ */
+public class 수동 {
+
+	public static void main(String[] args) {
+	 
+		short s1;
+		int num1 = 50000;
+		
+		s1 = num1;
+		
+		System.out.println(s1);
+	}
+
+}

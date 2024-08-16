@@ -1,0 +1,14 @@
+package ex01;
+
+public class Pracitce {
+
+	public static void main(String[] args) {
+		
+		char c1 = 'A';
+		char c2 = 32;
+		
+		System.out.println(c1);
+		System.out.println(c2);
+
+	}
+}

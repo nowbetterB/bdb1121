@@ -1,0 +1,31 @@
+package ex01;
+
+public class Practice2 {
+
+	public static void main(String[] args) {
+		String name = "배나경";
+		String age = "30";
+		String job = "여행가이드";
+		
+		System.out.println("제 이름은 " + name + "입니다.");
+		System.out.println(job + "로 일을 합니다");
+		System.out.println(age + "살입니다.");
+		
+		String str = "나는 \"자바\"를 배웁니다.";
+		System.out.println(str);
+		
+		str = "번호\n이름\n직업";
+				System.out.println(str);
+				
+		String play = """
+				배나경의 말
+				^^ 나는 자바를
+				공부하고 있습니다.
+				나는 자바로 돈을 벌겁니다.
+				""";
+		System.out.println(play);
+
+		
+	}
+
+}

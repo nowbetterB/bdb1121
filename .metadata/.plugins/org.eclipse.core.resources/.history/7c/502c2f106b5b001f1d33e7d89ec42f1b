@@ -1,0 +1,20 @@
+package ex04;
+
+public class new2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	     int cash = 1400;
+				
+			if (cash >= 1450) {
+				System.out.println("입장입니다.");
+			}
+			else {
+				System.out.println("잔액이 부족합니다.");
+			}
+}
+}
+

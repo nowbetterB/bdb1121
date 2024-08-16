@@ -1,0 +1,24 @@
+package ex01;
+
+public class Practice {
+
+	public static void main(String[] args) {
+		boolean stop = true;
+		if(stop) {
+			System.out.println("아이디와 비밀번호를 확인해주세요.");
+		} else {
+			System.out.println("로그인에 성공하였습니다.");
+		}
+		
+		String id = "asdpoi1124";
+		
+		int id = sc.nextInt();
+		
+		char asdpoi1124 = 100;
+		
+		
+		if (100) {
+			System.out.println("아이디를 확인해주세요.");
+		}	}
+
+}
